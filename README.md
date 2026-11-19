@@ -1,7 +1,7 @@
 ## Bonjour, je suis Oussama EL BAZE 👋
 
 Étudiant en **Master 2 Ingénierie Informatique et Analyse des Systèmes Complexes** à l'EILCO (Calais).
-Je cherche un **stage de fin d'études de 6 mois en Data Science / IA**, à partir du **1er février 2027**.
+Je cherche un **stage de fin d'études de 6 mois en Data Analyst / BI ou Data Science**, à partir du **1er février 2027**.
 
 ### Ce que je fais
 - **Séries temporelles et IoT** : détection d'anomalies (LSTM, Transformers, Autoencoders), maintenance prédictive
@@ -11,6 +11,7 @@ Je cherche un **stage de fin d'études de 6 mois en Data Science / IA**, à part
 ### Projets
 | Projet | Description | Stack |
 |---|---|---|
+| [tourisme-errachidia-midelt](https://github.com/oussamaeagle/tourisme-errachidia-midelt) | Analyse de 6 ans de fréquentation touristique (2019-2024) et 2 rapports Power BI : reprise à 83 % du niveau d'avant crise, saisonnalité, marchés, bascule des hôtels 4 étoiles vers les auberges | Power BI, Python, Pandas, Excel |
 | [iot-air-compressor-anomaly](https://github.com/oussamaeagle/iot-air-compressor-anomaly) | Pipeline complet sur 1,5 M de mesures de capteurs : prévision (baseline, LSTM, Transformer), détection d'anomalies par Autoencoder, alertes et exports Power BI | Python, TensorFlow, SQLite, Power BI |
 | [mri-hippocampus-segmentation](https://github.com/oussamaeagle/mri-hippocampus-segmentation) | Segmentation de l'hippocampe sur IRM OASIS : croissance de régions, SLIC, U-Net | Python, OpenCV, TensorFlow |
 
